@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Silvana Vaz 👋
 
 - 👩‍💻 Ciência da Computação
-- 🌱 Estudando Flutter pela Udemy
 - 🌱 Estudando e aprimorando conhecimentos em Desenvolvimento Web - Udemy
 - 📫 Contate-me no email: silvana_dark@hotmail.com
 
