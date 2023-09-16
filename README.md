@@ -1,4 +1,4 @@
-### Olá! Eu sou a Silvana Vaz e sejam bem-vindos ao meu GitHub👋
+### Olá! Eu sou a Silvana e sejam bem-vindos ao meu GitHub👋
 
 - 👩‍💻 Ciência da Computação
 - 🌱 Estudando e aprimorando conhecimentos em Desenvolvimento Web - Udemy
