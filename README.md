@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Silvana e sejam bem-vindos ao meu GitHub👋
 
-- 👩‍💻 Ciência da Computação
-- 🌱 Estudando e aprimorando conhecimentos em Desenvolvimento Web - Udemy
+- 👩‍💻 Formação em Ciência da Computação
+- 👩‍💻 Desenvolvedora Front-end
+- 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento de soluções 
 - 📫 Contate-me no email: silvana_dark@hotmail.com
 
 <div>
