@@ -2,7 +2,7 @@
 
 - 👩‍💻 Formação em Ciência da Computação
 - 👩‍💻 Desenvolvedora Front-end
-- 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento de soluções 
+- 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento
 - 📫 Contate-me no email: silvana_dark@hotmail.com
 
 <div>
