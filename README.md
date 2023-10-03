@@ -14,3 +14,6 @@
 <div>
     <a href="https://www.linkedin.com/in/silvana-vaz-os%C3%B3rio-6328a71a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  <div>
+      <a href=https://mail.google.com/mail/u/0/?ogbl#inbox target="_blank">
+  </div>
