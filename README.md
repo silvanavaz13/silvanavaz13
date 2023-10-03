@@ -14,6 +14,4 @@
 <div>
     <a href="https://www.linkedin.com/in/silvana-vaz-os%C3%B3rio-6328a71a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  <div>
-      <a href=https://mail.google.com/mail/u/0/?ogbl#inbox target="_blank"><img src=<img class="gb_Kc" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png" srcset="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r5.png 2x ,https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png 1x" alt="" aria-hidden="true" role="presentation" style="width:109px;height:40px">
-  </div>
+
