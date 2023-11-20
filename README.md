@@ -15,3 +15,5 @@
     <a href="https://www.linkedin.com/in/silvana-vaz-os%C3%B3rio-6328a71a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+982574607_WHATSAPP)
+
