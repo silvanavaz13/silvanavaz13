@@ -1,7 +1,7 @@
-### Olá! Eu sou a Silvana e sejam bem-vindos ao meu GitHub👋
+### Hello! I Am Silvana and Welcome my GitHub👋
 
 - 👩‍💻 Formação em Ciência da Computação
-- 👩‍💻 Desenvolvedora Front-end
+- 👩‍💻 Front-end Developer
 - 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento
 - 📫 Contate-me no email: silvana_dark@hotmail.com
 
@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvana-vaz-osorio/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:svazosorio@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+982574607)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+98257-4607)
 
 
 
