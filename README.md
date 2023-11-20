@@ -5,6 +5,8 @@
 - 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento
 - 📫 Contate-me no email: silvana_dark@hotmail.com
 
+  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=silvanavaz13&theme=bear&background=000&border=30A3DC&dates=FFF)](https://github.com/silvanavaz13)
 
 # Redes
