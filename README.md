@@ -1,8 +1,8 @@
 ### Hello! I Am Silvana and Welcome my GitHub👋
 
-- 👩‍💻 Formação em Ciência da Computação
+- 👩‍🎓 Formação em Ciência da Computação
 - 👩‍💻 Front-end Developer
-- 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento
+- 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento 
 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=silvanavaz13&theme=bear&background=000&border=30A3DC&dates=FFF)](https://github.com/silvanavaz13)
