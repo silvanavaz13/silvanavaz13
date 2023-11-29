@@ -1,8 +1,20 @@
-### Hello! I Am Silvana and Welcome my GitHub👋
+### Hello! I'm Silvana and Welcome my GitHub👋 <hr>
 
-- 👩‍🎓 Formação em Ciência da Computação
+<img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="ilustração de um git" min-width="200px" max-width="200px" width="200px" align="right">
+
+
+- 👩‍🎓 Formação em Ciência da Computação                                                      
 - 👩‍💻 Front-end Developer
-- 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento 
+- 📚 Aprimorando os conhecimentos técnicos de Front-end para desenvolvimento
+- 💡 Estou sempre em busca de desafios e oportunidades para desenvolver. <br>
+
+<p align="left"> 
+Com conhecimento sólido em HTML, tenho a capacidade de estruturar o conteúdo de forma organizada e acessível. Minhas habilidades em CSS me permite criar estilos que vão além da estética visual, pois busco garantir que a experiência do usuário seja fluida e responsiva. <br>
+
+Estou sempre ansiosa para me manter atualizada com as últimas tendências e técnicas em desenvolvimento front-end. Tenho a habilidade de aprender rapidamente novas tecnologias e estou disposta a enfrentar desafios criativos para melhorar minhas habilidades.
+
+
+
 
   
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silvanavaz13&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
